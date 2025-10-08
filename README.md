@@ -14,13 +14,17 @@ A feature-rich React movie application that allows users to search for movies, v
 - 📱 **Responsive Design** - Beautiful UI that works on all devices
 - ⚡ **Fast Performance** - Built with Vite for lightning-fast development and build
 
-## 🚀 Getting Started
+## 🛠️ Built With
 
-### Prerequisites
+- **React** - UI library
+- **Vite** - Build tool
+- **Tailwind CSS v4** - Styling
+- **Axios** - HTTP client
+- **OMDb API** - Movie database
 
-- Node.js (v16 or higher)
-- npm or yarn
+- ## 🎯 Usage
 
-### Installation
-
-1. Clone the repository
+1. Enter a movie name in the search bar
+2. Click on any movie card to view detailed information
+3. Add movies to favorites by clicking the heart button
+4. View all favorites from the navigation bar
