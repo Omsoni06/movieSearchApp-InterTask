@@ -1,16 +1,26 @@
-# React + Vite
+# 🎬 MovieFlix
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A feature-rich React movie application that allows users to search for movies, view detailed information, and save favorites using the OMDb API.
 
-Currently, two official plugins are available:
+![React](https://img.shields.io/badge/React-18.3.1-blue)
+![Vite](https://img.shields.io/badge/Vite-5.4.0-purple)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-cyan)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- 🔍 **Search Movies** - Search through thousands of movies from the OMDb database
+- 📖 **Movie Details** - View comprehensive information including cast, director, ratings, awards, and box office
+- ❤️ **Favorites** - Add and remove movies from favorites (persisted in localStorage)
+- 📱 **Responsive Design** - Beautiful UI that works on all devices
+- ⚡ **Fast Performance** - Built with Vite for lightning-fast development and build
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Getting Started
 
-## Expanding the ESLint configuration
+### Prerequisites
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Node.js (v16 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository
